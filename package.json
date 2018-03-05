@@ -1,13 +1,22 @@
 {
   "name": "bigpicture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An infinitely pannable and zoomable whiteboard",
   "main": "main.js",
-  "scripts": { "start": "electron ." },
-  "repository": { "type": "git", "url": "" },
-  "keywords": ["bigpicture"],
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josephernest/bigpicture-editor.git"
+  },
+  "keywords": [
+    "bigpicture"
+  ],
   "author": "JosephErnest",
   "license": "MIT",
-  "homepage": "",
-  "devDependencies": { "electron-prebuilt": "^1.2.0" }
+  "homepage": "http://github.com/josephernest/bigpicture.js/",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
 }
